@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2019-03-30T19:52:33+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://fang-li.github.io/atom.xml" rel="self"/>
+  <link href="http://fang-li.github.io/"/>
+  <updated>2019-03-30T19:58:30+08:00</updated>
+  <id>http://fang-li.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Title of the post2]]></title>
+    <link href="http://fang-li.github.io/blog/2019/03/30/title-of-the-post2/"/>
+    <updated>2019-03-30T19:58:11+08:00</updated>
+    <id>http://fang-li.github.io/blog/2019/03/30/title-of-the-post2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Title of the post]]></title>
-    <link href="http://yoursite.com/blog/2019/03/30/title-of-the-post/"/>
+    <link href="http://fang-li.github.io/blog/2019/03/30/title-of-the-post/"/>
     <updated>2019-03-30T19:51:06+08:00</updated>
-    <id>http://yoursite.com/blog/2019/03/30/title-of-the-post</id>
+    <id>http://fang-li.github.io/blog/2019/03/30/title-of-the-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
