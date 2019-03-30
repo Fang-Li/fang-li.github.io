@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://fang-li.github.io/blog/2019/03/30/m/</loc>
+<lastmod>2019-03-30T20:42:43+08:00</lastmod>
+</url>
+<url>
+<loc>http://fang-li.github.io/blog/2019/03/30/l/</loc>
+<lastmod>2019-03-30T20:42:40+08:00</lastmod>
+</url>
+<url>
 <loc>http://fang-li.github.io/blog/2019/03/30/k/</loc>
 <lastmod>2019-03-30T20:35:44+08:00</lastmod>
 </url>
@@ -64,5 +72,8 @@
 </url>
 <url>
 <loc>http://fang-li.github.io/search.html</loc>
+</url>
+<url>
+<loc>http://fang-li.github.io/posts/2/</loc>
 </url>
 </urlset>
