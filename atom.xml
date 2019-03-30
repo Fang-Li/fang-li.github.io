@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://fang-li.github.io/atom.xml" rel="self"/>
   <link href="http://fang-li.github.io/"/>
-  <updated>2019-03-30T20:06:02+08:00</updated>
+  <updated>2019-03-30T20:07:18+08:00</updated>
   <id>http://fang-li.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[c]]></title>
+    <link href="http://fang-li.github.io/blog/2019/03/30/c/"/>
+    <updated>2019-03-30T20:07:08+08:00</updated>
+    <id>http://fang-li.github.io/blog/2019/03/30/c</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[b]]></title>
+    <link href="http://fang-li.github.io/blog/2019/03/30/b/"/>
+    <updated>2019-03-30T20:07:06+08:00</updated>
+    <id>http://fang-li.github.io/blog/2019/03/30/b</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[a]]></title>
+    <link href="http://fang-li.github.io/blog/2019/03/30/a/"/>
+    <updated>2019-03-30T20:07:03+08:00</updated>
+    <id>http://fang-li.github.io/blog/2019/03/30/a</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Title of the post3]]></title>

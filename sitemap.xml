@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://fang-li.github.io/blog/2019/03/30/c/</loc>
+<lastmod>2019-03-30T20:07:08+08:00</lastmod>
+</url>
+<url>
+<loc>http://fang-li.github.io/blog/2019/03/30/b/</loc>
+<lastmod>2019-03-30T20:07:06+08:00</lastmod>
+</url>
+<url>
+<loc>http://fang-li.github.io/blog/2019/03/30/a/</loc>
+<lastmod>2019-03-30T20:07:03+08:00</lastmod>
+</url>
+<url>
 <loc>http://fang-li.github.io/blog/2019/03/30/title-of-the-post3/</loc>
 <lastmod>2019-03-30T20:01:56+08:00</lastmod>
 </url>
